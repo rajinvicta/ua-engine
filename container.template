@@ -1,0 +1,35 @@
+import SmartDepend from '../Dep/SmartDepend';
+
+TEMP_IMPORT_LIST_ALL
+
+
+
+class ControlContainer {
+  private _smartDepend: SmartDepend;
+
+  TEMP_DECLARATIONS
+
+  constructor() {
+    this._smartDepend = new SmartDepend();
+
+    this._addModules();
+    this._addDepends();
+  }
+
+  public getMain(): Game {
+    let spEntity = <Game>this._smartDepend.resolve(this._Game);
+
+    return spEntity;
+  }
+
+  private _addModules() {
+    TEMP_ADDMODULES
+  }
+
+  private _addDepends() {
+    TEMP_ADDDEPENDS
+  }
+
+}
+
+export default ControlContainer;

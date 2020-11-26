@@ -1,0 +1,328 @@
+
+professor.png
+size: 2007,1491
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+assets/Star
+  rotate: true
+  xy: 1424, 5
+  size: 265, 255
+  orig: 349, 334
+  offset: 42, 41
+  index: -1
+assets/prof_brush_1
+  rotate: false
+  xy: 2, 686
+  size: 336, 803
+  orig: 339, 806
+  offset: 3, 3
+  index: -1
+assets/prof_brush_2
+  rotate: false
+  xy: 794, 786
+  size: 368, 703
+  orig: 368, 703
+  offset: 0, 0
+  index: -1
+assets/prof_brush_3
+  rotate: false
+  xy: 340, 756
+  size: 452, 733
+  orig: 452, 733
+  offset: 0, 0
+  index: -1
+assets/prof_shadow
+  rotate: true
+  xy: 1251, 185
+  size: 507, 106
+  orig: 515, 114
+  offset: 3, 6
+  index: -1
+assets/professor_arm_1
+  rotate: true
+  xy: 388, 693
+  size: 61, 277
+  orig: 61, 278
+  offset: 0, 1
+  index: -1
+assets/professor_arm_10
+  rotate: true
+  xy: 1476, 341
+  size: 355, 270
+  orig: 355, 270
+  offset: 0, 0
+  index: -1
+assets/professor_arm_11
+  rotate: false
+  xy: 1089, 694
+  size: 370, 90
+  orig: 370, 90
+  offset: 0, 0
+  index: -1
+assets/professor_arm_2
+  rotate: false
+  xy: 1748, 562
+  size: 199, 175
+  orig: 199, 175
+  offset: 0, 0
+  index: -1
+assets/professor_arm_3
+  rotate: true
+  xy: 1772, 864
+  size: 217, 227
+  orig: 217, 232
+  offset: 0, 5
+  index: -1
+assets/professor_arm_4
+  rotate: true
+  xy: 609, 3
+  size: 137, 412
+  orig: 137, 413
+  offset: 0, 1
+  index: -1
+assets/professor_arm_5
+  rotate: false
+  xy: 1164, 801
+  size: 137, 408
+  orig: 137, 413
+  offset: 0, 3
+  index: -1
+assets/professor_arm_6
+  rotate: true
+  xy: 1023, 6
+  size: 145, 399
+  orig: 146, 399
+  offset: 0, 0
+  index: -1
+assets/professor_arm_7
+  rotate: true
+  xy: 1521, 798
+  size: 242, 141
+  orig: 242, 141
+  offset: 0, 0
+  index: -1
+assets/professor_arm_8
+  rotate: true
+  xy: 1748, 381
+  size: 179, 191
+  orig: 179, 191
+  offset: 0, 0
+  index: -1
+assets/professor_arm_9
+  rotate: false
+  xy: 1681, 22
+  size: 183, 188
+  orig: 183, 188
+  offset: 0, 0
+  index: -1
+assets/professor_arm_point
+  rotate: true
+  xy: 1359, 272
+  size: 420, 115
+  orig: 420, 115
+  offset: 0, 0
+  index: -1
+assets/professor_arm_shadow_1
+  rotate: true
+  xy: 1494, 711
+  size: 73, 224
+  orig: 73, 224
+  offset: 0, 0
+  index: -1
+assets/professor_arm_shadow_2
+  rotate: false
+  xy: 1748, 212
+  size: 189, 167
+  orig: 189, 167
+  offset: 0, 0
+  index: -1
+assets/professor_arm_shadow_3
+  rotate: true
+  xy: 1303, 1097
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+assets/professor_cap_front
+  rotate: false
+  xy: 1164, 1384
+  size: 295, 105
+  orig: 295, 105
+  offset: 0, 0
+  index: -1
+assets/professor_cap_main
+  rotate: false
+  xy: 1681, 1284
+  size: 324, 205
+  orig: 324, 205
+  offset: 0, 0
+  index: -1
+assets/professor_cap_side
+  rotate: false
+  xy: 803, 693
+  size: 284, 91
+  orig: 285, 91
+  offset: 0, 0
+  index: -1
+assets/professor_eyebrow
+  rotate: true
+  xy: 776, 717
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+assets/professor_eyes_front
+  rotate: false
+  xy: 1521, 1042
+  size: 220, 127
+  orig: 220, 127
+  offset: 0, 0
+  index: -1
+assets/professor_eyes_main
+  rotate: false
+  xy: 67, 3
+  size: 185, 130
+  orig: 185, 130
+  offset: 0, 0
+  index: -1
+assets/professor_eyes_side
+  rotate: false
+  xy: 488, 2
+  size: 119, 138
+  orig: 119, 139
+  offset: 0, 1
+  index: -1
+assets/professor_finger_1
+  rotate: true
+  xy: 1461, 698
+  size: 86, 31
+  orig: 91, 40
+  offset: 1, 8
+  index: -1
+assets/professor_finger_2
+  rotate: true
+  xy: 1251, 153
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+assets/professor_finger_3
+  rotate: false
+  xy: 667, 712
+  size: 78, 42
+  orig: 78, 42
+  offset: 0, 0
+  index: -1
+assets/professor_glasses_front
+  rotate: true
+  xy: 1664, 809
+  size: 231, 106
+  orig: 231, 106
+  offset: 0, 0
+  index: -1
+assets/professor_glasses_main
+  rotate: false
+  xy: 1772, 739
+  size: 201, 123
+  orig: 202, 123
+  offset: 0, 0
+  index: -1
+assets/professor_glasses_side
+  rotate: true
+  xy: 254, 5
+  size: 128, 119
+  orig: 128, 119
+  offset: 0, 0
+  index: -1
+assets/professor_hair
+  rotate: true
+  xy: 375, 5
+  size: 128, 111
+  orig: 128, 111
+  offset: 0, 0
+  index: -1
+assets/professor_hat_zoo
+  rotate: false
+  xy: 1164, 1211
+  size: 280, 171
+  orig: 280, 171
+  offset: 0, 0
+  index: -1
+assets/professor_mouth1
+  rotate: false
+  xy: 340, 689
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+assets/professor_mouth2
+  rotate: true
+  xy: 2, 2
+  size: 131, 63
+  orig: 131, 63
+  offset: 0, 0
+  index: -1
+assets/professor_mouth_smile
+  rotate: true
+  xy: 1866, 24
+  size: 186, 127
+  orig: 186, 127
+  offset: 0, 0
+  index: -1
+assets/professor_muzzle_front
+  rotate: true
+  xy: 1461, 1171
+  size: 318, 218
+  orig: 318, 218
+  offset: 0, 0
+  index: -1
+assets/professor_muzzle_main
+  rotate: true
+  xy: 1303, 786
+  size: 309, 216
+  orig: 309, 216
+  offset: 0, 0
+  index: -1
+assets/professor_muzzle_side
+  rotate: false
+  xy: 1748, 1083
+  size: 253, 199
+  orig: 254, 199
+  offset: 0, 0
+  index: -1
+assets/professor_pupil_1
+  rotate: false
+  xy: 667, 703
+  size: 37, 7
+  orig: 37, 7
+  offset: 0, 0
+  index: -1
+assets/professor_pupil_2
+  rotate: true
+  xy: 747, 713
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+assets/professor_torso_front
+  rotate: false
+  xy: 2, 135
+  size: 424, 549
+  orig: 424, 549
+  offset: 0, 0
+  index: -1
+assets/professor_torso_main
+  rotate: false
+  xy: 832, 153
+  size: 417, 538
+  orig: 441, 538
+  offset: 10, 0
+  index: -1
+assets/professor_torso_side
+  rotate: false
+  xy: 428, 142
+  size: 402, 549
+  orig: 402, 549
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,17 @@
+{
+    "PATHS": {
+        "IMG": "assets/img/",
+        "JSN": "assets/json/",
+        "SND": "assets/snd/",
+        "SPN": "assets/spine/",
+        "VIDEO": "assets/video",
+        "SCRIPT": "assets/script"
+    },
+    "SND": {
+        "EXT": ["ogg", "mp3"]
+    },
+    "DISPLAY": {
+        "WIDTH": 1920,
+        "HEIGHT": 1080
+    }
+}
